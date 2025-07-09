@@ -17,7 +17,7 @@ It visualizes patterns across grades (G1, G2, G3) and factors like absences, par
 ![Grade 2](https://github.com/kirti323/powerbi-student-performance/blob/main/Screenshot%202.png)
 
 ### Grade 1 Dashboard
-![Grade 1](screenshots/grade1_dashboard.png)
+![Grade 1](https://github.com/kirti323/powerbi-student-performance/blob/main/Screenshot%203.png)
 
 ## 📁 Files
 - `Student_Performance_Analysis.pbix` – Power BI dashboard file
