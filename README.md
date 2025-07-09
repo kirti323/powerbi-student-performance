@@ -11,7 +11,7 @@ It visualizes patterns across grades (G1, G2, G3) and factors like absences, par
 ## 📷 Screenshots
 
 ### Final Grade Dashboard
-![Final Grade](screenshots/final_grade_dashboard.png)
+![Final Grade](https://github.com/kirti323/powerbi-student-performance/blob/main/Screenshot%201.png)
 
 ### Grade 2 Dashboard
 ![Grade 2](screenshots/grade2_dashboard.png)
